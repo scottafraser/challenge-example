@@ -29,9 +29,9 @@ makeList = () => {
     <li
     class="list-group-item d-flex justify-content-between align-items-center"
   >
-    <span>
-      <span class="badge badge-primary badge-pill">${item.votes}</span>
-      ${item.name} 
+    <span class="label">
+      <h5><span class="badge badge-primary badge-pill">${item.votes}</span>
+      ${item.name}</h5>
       </span>
     </span>
     <span>
