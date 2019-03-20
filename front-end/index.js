@@ -4,15 +4,15 @@ const listGroup = $(".list-group");
 let orderedList = [];
 let list = [
   { name: "hawthorne-developer-evaluation.com", votes: 1 },
-  { name: "funky-cold-medina.com", votes: 4 },
-  { name: "timbers-rock.com", votes: 0 },
-  { name: "man-bear-pig.com", votes: 6 },
-  { name: "random-ecommerce-website.com", votes: 6 },
-  { name: "another-one.inc", votes: 10 },
-  { name: "best-website-ever.inc", votes: 10 },
-  { name: "another-one.inc", votes: 10 },
-  { name: "another-one.inc", votes: 10 },
-  { name: "another-one.inc", votes: 10 }
+  { name: "similar-billion-newspaper.net", votes: 4 },
+  { name: "power-pick-probably.com", votes: 0 },
+  { name: "magazine-travel-central.net", votes: 6 },
+  { name: "example-situation-factor.net", votes: 6 },
+  { name: "major-cell-office.org", votes: 30 },
+  { name: "fish-song-able.org", votes: 11 },
+  { name: "follow-challenge-stop.org", votes: 0 },
+  { name: "audience-sell-record.com", votes: 0 },
+  { name: "production-analysis-job.com", votes: 10 }
 ];
 
 // this sorts by votes
