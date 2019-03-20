@@ -26,7 +26,7 @@ From Visual Studio...
 
 #### To view Front-end challenge
 
-Check out live at hgc-challenge.surge.sh
+Check out live at http://hgc-challenge.surge.sh
 
 -or-
 
